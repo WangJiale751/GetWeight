@@ -153,9 +153,23 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataProcess.h" />
+    <ClInclude Include="json.hpp" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Thick.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\tsd.json" />
+    <None Include="initSet.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GetWeightDll2.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties initSet_1json__JSONSchema="http://json.schemastore.org/tsd" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>

@@ -1,0 +1,25 @@
+{
+  "CamraSet": 
+  {
+    "VerticalViewAngle": 25.107,
+    "InstallCamLaserDist": 637,
+    "InstallCamPitch": 25
+  },
+
+  "ImageSet": 
+  {
+    "ImgWidth": 1280,
+    "ImgHeight": 1024,
+    "CamSetOffsetY": 390,
+    "CamSetImgHeight": 100,
+    "LaserYP": 480,
+    "LaserLXP": 265,
+    "LaserRXP": 1045,
+    "BandWidth": 1080,
+    "BandY": 400,
+    "VanishPointX": 645,
+    "VanishPointY": 985,
+    "SampleCount": 100
+  }
+
+} 
