@@ -46,9 +46,6 @@
     <None Include="initSet.json">
       <Filter>源文件</Filter>
     </None>
-    <None Include="..\..\tsd.json">
-      <Filter>源文件</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="GetWeightDll2.rc">

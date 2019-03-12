@@ -1,6 +1,7 @@
-﻿  DataProcess.cpp
+﻿  dllFun.cpp
 d:\program files\opencv3_1\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 d:\program files\opencv3_1\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 d:\program files\opencv3_1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 E:\测厚_2019\测厚仪代码封装\GetWeightDll2\x64\Debug\GetWeightDll2.lib 和对象 E:\测厚_2019\测厚仪代码封装\GetWeightDll2\x64\Debug\GetWeightDll2.exp
   GetWeightDll2.vcxproj -> E:\测厚_2019\测厚仪代码封装\GetWeightDll2\x64\Debug\GetWeightDll2.dll
   GetWeightDll2.vcxproj -> E:\测厚_2019\测厚仪代码封装\GetWeightDll2\x64\Debug\GetWeightDll2.pdb (Full PDB)
