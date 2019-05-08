@@ -1,13 +1,15 @@
 {
   "CamraSet": 
   {
-    "VerticalViewAngle": 25.107,
+    "VerticalViewAngle": 25.107, 
     "InstallCamLaserDist": 637,
-    "InstallCamPitch": 25
+    "InstallCamPitch": 25,
+    "CamerFPS": 20,
+    "SendNumPerSecond": 2,
+    "VolumeAddFlag": 0
   },
 
-  "ImageSet": 
-  {
+  "ImageSet": {
     "ImgWidth": 1280,
     "ImgHeight": 1024,
     "CamSetOffsetY": 390,
@@ -17,9 +19,14 @@
     "LaserRXP": 1045,
     "BandWidth": 1080,
     "BandY": 400,
-    "VanishPointX": 645,
-    "VanishPointY": 985,
-    "SampleCount": 100
+    "VanishPointX": 645.000,
+    "VanishPointY": 985.000,
+    "SampleCount": 100 
+  },
+  "BeltPara": 
+  {
+    "AreaEmptyBelt": 1600,
+    "SpeedBelt": 3150
   }
 
 } 
